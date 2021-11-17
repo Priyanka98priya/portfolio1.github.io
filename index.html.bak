@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+       <title>Document</title>
+       <link rel="stylesheet" href="sty.css">
+       
+</head>
+<body>
+    <header>
+       <div class="user">
+       <img src="photo.jpg">
+       <h5 class="nm">Priyanka R</h5>
+       <p class="jb">Student</p>
+       </div>
+       <nav class="nv">
+          <ul>
+             <li><a href="#Details">Details</a></li>
+             <li><a href="#Education">Education</a></li>
+             <li><a href="#Technical Skills">Technical Skills</a></li>
+             <li><a href="#Project">Project</a></li>
+          </ul>
+       </nav>
+    </header>
+    <section class="Details" id="Details">
+        <h1 class="heading"><span>Details about me</span></h1>
+        <div class="Row">
+        <div class="det">
+             <h3><span>Name: </span>Priyanka R</h3>
+             <h3><span>Age: </span>24</h3>
+             <h3><span>Gender: </span>Female</h3>
+             <h3><span>Email: </span>priyankagowdar1@gmail.com</h3>
+             <h3><span>Phone_no: </span>9686003832,9742433125</h3>    
+        </div>
+    </div>
+    </section>
+<section class="Education" id="Education">
+    <h1 class="title"><span>Education</span></h1><br><br><br>
+    <table>
+        <tr>
+            <th>Cource</th>
+            <th>Name of the institude</th>
+            <th>University</th>
+            <th>Percentage/CGPA</th>
+        </tr>
+        <tr>
+            <td>MTech</td>
+            <td>Reva University</td>
+            <td>Reva University</td>
+            <td>9.53</td>
+        </tr>
+        <tr>
+            <td>BE</td>
+            <td>The Oxford College of Engineering</td>
+            <td>VTU</td>
+            <td>7.5</td>
+        </tr>
+        <tr>
+            <td>PUC</td>
+            <td>VidyaVahini pu college</td>
+            <td>Karnataka Board Pre University Exam</td>
+            <td>78%</td>
+        </tr>
+ <tr>
+            <td>SSLC</td>
+            <td>SM English School</td>
+            <td>Karnataka Secondary Education Examination Board</td>
+            <td>85.92%</td>
+        </tr>
+    </table>
+</section>
+<br><br><br><br><br><br>
+<section class="Technical Skills" id="Technical Skills">
+    <h1 class="head"><span>Technical Skills</span></h1>
+    <div>
+    <ul id="lis">
+        <li>Microsoft project</li>
+        <li>Primavera P6</li>
+        <li>C</li>
+        <li>Java</li>
+        <li>Oracle</li>
+        <li>Autocad</li>
+        <li>Revit Architecture</li>
+       </ul>
+</div>
+</section>
+<section class="Internship" id="Internship">
+    <h1 class="heading"><span>Internship</span></h1>
+    <div class="Row">
+        <div class="det">
+    <h3><span>Role: </span>Intern</h3>
+    <h3><span>Company: </span>Ibis Associates</h3>
+    <h3><span>Description: </span>Worked on Residential building about the planning, scheduling and resource management in Microsoft project software (MSP) and primavera(p6) software.</h3>
+            </div>
+</section>
+<section class="Internship" id="Internship">
+    <h1 class="heading"><span>Internship</span></h1>
+    <div class="Row">
+        <div class="det">
+    <h3><span>Role: </span>Intern</h3>
+    <h3><span>Company: </span>Public Works Department</h3>
+    <h3><span>Description: </span> construction of an office building for meteorology department [Karnataka].</h3>
+            </div>
+</section>
+<section class="Project" id="Project">
+    <h1 class="heading"><span>Project</span></h1>
+    <div class="Row">
+        <div class="det">
+    <h3><span>Role: </span>Member</h3>
+    <h3><span>Title: </span> A study on TIME-COST overruns in construction project</h3>
+    <h3><span>Description: </span> analysing and optimizing the factors affecting time -cost overruns by using Analytical Hierarchy process and a case study of g+3 residential building using Microsoft project software (MSP).
+Project.</h3>
+            </div>
+</section>
+<section class="Project" id="Project">
+    <h1 class="heading"><span>Project</span></h1>
+    <div class="Row">
+        <div class="det">
+    <h3><span>Role: </span>Team member</h3>
+    <h3><span>Title: </span>Piezo-electric Smart roads</h3>
+    <h3><span>Description: </span>convert physical motions and tyre pressure from the road to electricity using piezo electric sensors on the roads with heavy traffic volume by placing them over pavements..</h3>
+            </div>
+</div>
+</section>
+</body>
+</html>
